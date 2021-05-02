@@ -1,0 +1,9 @@
+main
+M[SP]=3
+R1=M[SP]
+R2=R1+1
+RV=2
+R3=RV
+M[R1]=R2
+RV=M[R1]
+RET
